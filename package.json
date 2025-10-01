@@ -1,0 +1,15 @@
+{
+  "name": "allwear-tcc",
+  "version": "1.0.0",
+  "description": "* Integrantes do Grupo\r     - Beatriz Mendes\r     - Catarina Silva\r     - Kathleen Miranda\r     - Laís Andrade",
+  "main": "cadastro.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
