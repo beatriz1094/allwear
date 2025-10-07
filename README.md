@@ -33,3 +33,7 @@
 https://www.figma.com/design/VlNPoD6nSxf5Ei1pDZDGlV/Untitled?node-id=0-1&p=f&t=UQB2mjYxCIxl0Eh7-0
 
 https://www.figma.com/design/VlNPoD6nSxf5Ei1pDZDGlV/Untitled?node-id=0-1&t=cWaBKzPjVCDDKxoB-1
+
+## Apps implantados
+[Back API](https://allwearback00.vercel.app/)
+[Front Web](https://beatriz1094.github.io/allwearfront/paginas/)
