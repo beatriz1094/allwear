@@ -40,5 +40,7 @@ https://www.figma.com/design/VlNPoD6nSxf5Ei1pDZDGlV/Untitled?node-id=0-1&t=cWaBK
 
 ## Relatorio Teste
 
-- [testes](TestesInsomnia.pdf)
+- [TESTES](./docs/testesin.pdf)
+
+
 
