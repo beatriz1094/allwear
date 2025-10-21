@@ -37,3 +37,8 @@ https://www.figma.com/design/VlNPoD6nSxf5Ei1pDZDGlV/Untitled?node-id=0-1&t=cWaBK
 ## Apps implantados
 [Back API](https://allwearback00.vercel.app/)
 [Front Web](https://beatriz1094.github.io/allwearfront/paginas/)
+
+## Relatorio Teste
+
+[Testes](Testes Insomnia.pdf)
+
